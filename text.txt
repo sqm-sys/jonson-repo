@@ -7,4 +7,8 @@ create two branch
 >>>>>>> feature1
 create four branch
 create five branch
-ha ha ha 
+<<<<<<< HEAD
+create six branch 
+=======
+create six branch
+>>>>>>> f50cefa39d162c14f4fe155ebd7498e9877fe5a6
